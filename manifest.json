@@ -1,0 +1,21 @@
+{
+  "name": "Saucy & Co. Restaurant",
+  "short_name": "Saucy & Co.",
+  "description": "Modern Restaurant offering fine dining and exceptional taste",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6b35",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
